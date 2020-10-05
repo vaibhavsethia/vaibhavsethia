@@ -26,8 +26,8 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=Graphql)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
-![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavsethia&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsethia&layout=compact&langs_count=8)
+![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavsethia&show_icons=true&title_color=235A58&text_color=2C716E&bg_color=121012&icon_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsethia&layout=compact&langs_count=8&title_color=235A58&text_color=2C716E&bg_color=121012&icon_color=fff)
 
 
 <p align="right">
