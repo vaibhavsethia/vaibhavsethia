@@ -1,1 +1,2 @@
-![Header](https://github.com/vaibhavsethia/vaibhavsethia/blob/main/Head.mp4)
+![Header](https://github.com/vaibhavsethia/vaibhavsethia/blob/main/Head.gif)
+
