@@ -1,6 +1,6 @@
 ![Header](https://github.com/vaibhavsethia/vaibhavsethia/blob/main/Head.gif)
 
-[![vaibhavsethia.com](https://img.shields.io/badge/-VAIBHAVSETHIA.COM-000?style=for-the-badge&logo=react&logoColor=fff)](https://vaibhavsethia.github.io/Portfolio_new/)
+[![vaibhavsethia.com](https://img.shields.io/badge/-VAIBHAVSETHIA.COM-000?style=for-the-badge&logo=react&logoColor=fff)](https://vaibhavsethia.github.io/Portfolio_new/) <img src="https://user-images.githubusercontent.com/48138906/87844647-ada73c00-c8dc-11ea-96af-427f77038aca.gif" width='30px'>
 
 **Languages**
 
@@ -25,3 +25,13 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=Graphql)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+
+![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavsethia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsethia&layout=compact&langs_count=8)
+
+
+<p align="right">
+  <img align="left" src=https://komarev.com/ghpvc/?username=vaibhavsethia alt=vaibhavsethia/>
+<a href="https://www.instagram.com/vaibhav_9_8/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="the.rishi.sharma" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/vaibhav-sethia-4711b8145/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rishabh-sharma7" height="20" width="20" /></a>
+</p>
