@@ -2,6 +2,13 @@
 
 [![vaibhavsethia.com](https://img.shields.io/badge/-VAIBHAVSETHIA.COM-000?style=for-the-badge&logo=react&logoColor=fff)](https://vaibhavsethia.github.io/Portfolio_new/) <img src="https://user-images.githubusercontent.com/48138906/87844647-ada73c00-c8dc-11ea-96af-427f77038aca.gif" width='30px'>
 
+I am an IT Engineering Student at the University School of Information Communication and Technology, GGSIPU.
+I have a serious passion for development and a never-ending curiosity towards new technologies.
+Apart from resolving some real-life problems, You can often find me solving some programming questions, watching Shark tank, or playing some sport.
+Always up for discussions around space and science fiction.
+
+---
+
 **Languages**
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
