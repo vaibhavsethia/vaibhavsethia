@@ -39,6 +39,7 @@ Always up for discussions around space and science fiction.
 
 <p align="right">
   <img align="left" src=https://komarev.com/ghpvc/?username=vaibhavsethia alt=vaibhavsethia/>
-<a href="https://www.instagram.com/vaibhav_9_8/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="the.rishi.sharma" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/vaibhav-sethia-4711b8145/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rishabh-sharma7" height="20" width="20" /></a>
+<a href="https://www.instagram.com/vaibhav_9_8/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="vaibhav_9_8" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/vaibhav-sethia-4711b8145/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="irateleaf98" height="20" width="20" /></a>
+<a href="https://vaibhavsethia1998.medium.com" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg alt="vaibhavsethia1998" height="20" width="20" /></a>
 </p>
